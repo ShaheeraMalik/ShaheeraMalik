@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaheera Malik</h1>
 <h3 align="center">I'm a Software Engineer specializing in MERN stack development, passionate about coding and building innovative solutions ✨</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mbgrao&label=Profile%20views&color=0e75b6&style=flat" alt="mbgrao" />
-</p>
+
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=mbgrao">
@@ -11,32 +9,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://x.com/RaoMbg?t=4g6Oo0ScH3AgS2jEvO7HXw&s=09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/RaoMbg?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-bin-gulzar-8847b2233/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/RAO.MBG?mibextid=ZbWKwL" target="blank">
-    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/mbg_rao" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://muhammad-bin-gulzar.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01b8e084dccf3bf0c4?mp_source=share" target="blank">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
-  <a href="https://www.fiverr.com/s/o8qz3pb" target="blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-</p>
+
 
 ---
 
